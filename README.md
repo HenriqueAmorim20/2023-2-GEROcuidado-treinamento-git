@@ -278,5 +278,3 @@ https://github.com/HenriqueAmorim20/2023-2-GEROcuidado-treinamento-git.git
 
 https://github.com/fga-eps-mds/2023-2-GEROcuidado-Doc/blob/main/docs/planejamento/plano_de_contribuicao.md
 
-
-sdjasi
